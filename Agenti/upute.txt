@@ -1,0 +1,5 @@
+Prvo je potrebno instalirati Selenium i verziju za određeni reglednik ja sam koristio Firefox https://www.selenium.dev/
+
+Posto je dva agenta prvi.py i drugi.py, potrebno ih je oba pokrenuti s naredobama:
+python3 prvi.py
+python3 drugi.py
